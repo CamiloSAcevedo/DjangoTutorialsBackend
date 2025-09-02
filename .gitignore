@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+
+# Virtualenv
+env/
+venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+media/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Others
+*.DS_Store
